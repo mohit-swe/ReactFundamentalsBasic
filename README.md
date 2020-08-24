@@ -1,2 +1,2 @@
 # ReactFundamentalsBasic
-Basic of reactjs concepts learn practically from internet. 
+Basic of reactjs concepts.
